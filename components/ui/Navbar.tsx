@@ -22,7 +22,7 @@ const Navbar:FC = () => {
 
                     <NextLink href='/theme-changer' passHref>
                         <Link>
-                        <Typography variant="h6" color='white'>Cambiar Tema</Typography>
+                            <Typography variant="h6" color='white'>Cambiar Tema</Typography>
                         </Link>
                     </NextLink> 
 
